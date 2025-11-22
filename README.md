@@ -1,4 +1,4 @@
-# Arduino Radar System
+## Arduino Radar System
 
 A simple radar system built with **Arduino Uno**, an **HC-SR04 Ultrasonic Sensor**, and a **Servo Motor**, visualized using a **Processing IDE GUI**. The radar scans objects in front of it and displays their position on a radar-like interface.
 
